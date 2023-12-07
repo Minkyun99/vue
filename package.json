@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "socket.io-client": "^4.7.2",
+    "vue": "^3.3.10"
+  }
+}
